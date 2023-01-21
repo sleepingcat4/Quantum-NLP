@@ -1,4 +1,4 @@
-<h1>Diagrammatic Reasoning for Natural Language Processing</h1>
+<h1>Quantum Natural Language Processing for Meaning Classification</h1>
 <h2>Introduction</h2>
 <p>This code is an implementation of a natural language processing (NLP) task using Diagrammatic Reasoning. It uses the libraries Discopy, Sympy, Jax, and Lambeq to read, load, and parse sentences into diagrams, and then use these diagrams to make predictions using a circuit-based model.</p>
 <h2>Implementation</h2>
